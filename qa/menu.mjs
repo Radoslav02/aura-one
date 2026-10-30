@@ -1,0 +1,12 @@
+import puppeteer from 'puppeteer-core'
+const browser = await puppeteer.launch({ executablePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome', headless: true, protocolTimeout: 240000, args: ['--enable-gpu', '--ignore-gpu-blocklist', '--use-angle=metal'] })
+const page = await browser.newPage()
+await page.setViewport({ width: 390, height: 844, isMobile: true, hasTouch: true })
+await page.goto('http://localhost:5173/en', { waitUntil: 'domcontentloaded' })
+await new Promise((r) => setTimeout(r, 7000))
+await page.screenshot({ path: 'qa/menu-0.png' })
+await page.tap('button[aria-controls="mobile-menu"]')
+await new Promise((r) => setTimeout(r, 1500))
+await page.screenshot({ path: 'qa/menu-1.png' })
+await Promise.race([browser.close(), new Promise((r) => setTimeout(r, 5000))])
+process.exit(0)

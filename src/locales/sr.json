@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "siteName": "AURA Audio",
+    "home": { "title": "AURA One — Tišina, iznova osmišljena.", "description": "AURA One premium bežične slušalice: adaptivno poništavanje buke, baterija od 40 sati, prostorni zvuk, aluminijum i veganska koža. Četiri hrabre boje." },
+    "product": { "title": "AURA One — Tehnologija i specifikacije", "description": "Šta je unutra: 40 mm drajveri sa titanijumskim premazom, Pulse A1 čip, 40 sati baterije i kompletne specifikacije." },
+    "about": { "title": "O nama — AURA Audio", "description": "Priča o AURA Audiju: studio opsednut tišinom, bojom i zvukom. Upoznajte tim i vrednosti iza AURA One slušalica." },
+    "contact": { "title": "Kontakt — AURA Audio", "description": "Pišite AURA timu: podrška, partnerstva, mediji. Odgovaramo u roku od jednog radnog dana." },
+    "notFound": { "title": "404 — Izgubljeni u tišini", "description": "Ova stranica ne postoji." }
+  },
+  "nav": {
+    "home": "Početna",
+    "product": "Proizvod",
+    "about": "O nama",
+    "contact": "Kontakt",
+    "preorder": "Poruči",
+    "menu": "Meni",
+    "close": "Zatvori",
+    "openMenu": "Otvori meni",
+    "closeMenu": "Zatvori meni",
+    "skip": "Preskoči na sadržaj",
+    "language": "Jezik"
+  },
+  "common": {
+    "brand": "AURA",
+    "product": "AURA One",
+    "tagline": "Tišina, iznova osmišljena.",
+    "price": "349 €",
+    "scroll": "Skroluj",
+    "new": "Novo",
+    "learnMore": "Saznaj više",
+    "readMore": "Pročitaj više",
+    "loading": "Učitavanje",
+    "shipsIn": "Isporuka od proleća 2027.",
+    "freeReturns": "Besplatan povraćaj u roku od 30 dana"
+  },
+  "cursor": {
+    "view": "Pogledaj",
+    "drag": "Prevuci",
+    "play": "Pusti",
+    "pause": "Pauza",
+    "send": "Pošalji",
+    "open": "Otvori",
+    "close": "Zatvori",
+    "go": "Idi"
+  },
+  "preloader": { "label": "Učitavamo tišinu" },
+  "colorways": {
+    "violet": { "name": "Električna ljubičasta", "short": "Ljubičasta", "mood": "Glasne spolja. Tihe iznutra." },
+    "coral": { "name": "Koralni zalazak", "short": "Koralna", "mood": "Zlatni sat, ceo dan." },
+    "lime": { "name": "Lime puls", "short": "Lime", "mood": "Pojačaj svoj stil do kraja." },
+    "ocean": { "name": "Okeanska plava", "short": "Okeanska", "mood": "Duboko, mirno, beskrajno." }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Predstavljamo AURA One",
+      "title": "Tišina, iznova osmišljena.",
+      "subtitle": "Adaptivno poništavanje buke, 40 sati baterije i prostorni zvuk, upakovani u aluminijum i vegansku kožu. Četiri boje koje ne znaju da šapuću.",
+      "cta": "Poruči odmah",
+      "ctaSecondary": "Pogledaj film",
+      "scroll": "Skroluj i istraži",
+      "badge1": "40 h baterije",
+      "badge2": "Adaptivni ANC",
+      "badge3": "Prostorni zvuk"
+    },
+    "exploded": {
+      "eyebrow": "Projektovane iznutra ka spolja",
+      "title": "Svaki sloj, do detalja.",
+      "body": "Skroluj i rastavi AURA One. Dvanaest komponenti, nula kompromisa.",
+      "parts": {
+        "headband": { "title": "Aluminijumski obruč", "desc": "Anodizirani aluminijum iz jednog komada. Savija se 10.000 puta bez traga." },
+        "cushion": { "title": "Jastučići od memorijske pene", "desc": "Veganska koža preko pene sporog povratka. Zadržava zvuk, propušta toplotu." },
+        "driver": { "title": "Pulse drajver od 40 mm", "desc": "Membrana sa titanijumskim premazom. Od 4 Hz do 40 kHz uz 0,03% izobličenja." },
+        "chip": { "title": "Pulse A1 čip", "desc": "Osam mikrofona, 48.000 merenja u sekundi. Buka nestaje pre nego što je čuješ." },
+        "cup": { "title": "Vajane školjke", "desc": "CNC glodane, u boji koju ti biraš. Kontrole na dodir skrivene na vidnom mestu." }
+      }
+    },
+    "noise": {
+      "eyebrow": "Adaptivno poništavanje buke",
+      "title": "Svet, utišan.",
+      "body": "Osam mikrofona mapira haos oko tebe i poništava ga 48.000 puta u sekundi. Saobraćaj, vozovi, otvorene kancelarije. Nestali.",
+      "stat": "45",
+      "statUnit": "dB",
+      "statLabel": "buke manje, adaptivno",
+      "before": "Spolja",
+      "after": "Unutra"
+    },
+    "features": {
+      "eyebrow": "Za ceo dan",
+      "title": "I celu noć.",
+      "swipeHint": "Prevuci",
+      "items": {
+        "battery": { "title": "Baterija od 40 sati", "desc": "Cela radna nedelja na jednom punjenju. Deset minuta na kablu donosi još pet sati.", "value": 40, "unit": "h", "label": "reprodukcije uz uključen ANC" },
+        "spatial": { "title": "Prostorni zvuk", "desc": "Zvuk od 360° koji prati pokrete glave i ostaje usidren za ekran dok se krećeš.", "value": 360, "unit": "°", "label": "zvuka koji prati glavu" },
+        "comfort": { "title": "Lake kao pero", "desc": "Samo 248 grama, uz pritisak ravnomerno raspoređen duž obruča. Zaboravićeš da ih nosiš.", "value": 248, "unit": "g", "label": "ukupne težine" },
+        "materials": { "title": "Pošteni materijali", "desc": "Reciklirani aluminijum, veganska koža, pakovanje bez plastike. Napravljene da se popravljaju, ne da se bacaju.", "value": 92, "unit": "%", "label": "recikliranog aluminijuma" }
+      }
+    },
+    "configurator": {
+      "eyebrow": "Tvoja boja. Tvoj zvuk.",
+      "title": "Izaberi svoj puls.",
+      "hint": "Prevuci da okreneš",
+      "cta": "Poruči u boji {{color}}",
+      "selected": "Izabrana boja"
+    },
+    "gallery": {
+      "eyebrow": "Nose se svuda",
+      "title": "Od studija do voza u 6 ujutru.",
+      "alts": [
+        "Žena sa AURA One slušalicama na ulici osvetljenoj neonom",
+        "DJ sa slušalicama u klupskoj kabini",
+        "Trkačica sa slušalicama se isteže u teretani",
+        "Putnik sa slušalicama gleda kroz prozor aviona",
+        "Producent sa slušalicama u studiju za snimanje",
+        "Osoba sluša muziku na krovu u zlatni sat",
+        "Krupni plan slušalica na žutoj pozadini",
+        "Slušalice na drvenom stolu"
+      ]
+    },
+    "video": {
+      "eyebrow": "Film",
+      "title": "Dva minuta ničega.",
+      "body": "Odneli smo AURA One na najbučnija mesta koja smo našli i snimili ono što umesto buke čuješ.",
+      "play": "Pusti film",
+      "pause": "Pauziraj film"
+    },
+    "testimonials": {
+      "eyebrow": "Šta ljudi čuju",
+      "title": "Glasna mišljenja o tišini.",
+      "items": [
+        { "name": "Mila K.", "role": "Muzički producent", "text": "Prvi ANC koji ne osećam kao pritisak u glavi. Miksujem u njima. To govori sve." },
+        { "name": "Jonas R.", "role": "Svakodnevni putnik", "text": "Četrdeset sati je stvarno. Punio sam ih jednom za dve nedelje, a vozom idem svaki dan." },
+        { "name": "Aiša B.", "role": "Dizajnerka", "text": "Kupila sam koralne zbog boje, a ostala zbog zvuka. Prostorni zvuk na filmovima je nestvaran." },
+        { "name": "Tom H.", "role": "Podkaster", "text": "Najbolji kvalitet poziva koji sam probao. Ljudi su prestali da me pitaju da ponovim." },
+        { "name": "Nina P.", "role": "Maratonka", "text": "Ne spadaju. 30 km, nijedno nameštanje. A posle se obrišu za sekund." },
+        { "name": "Leo M.", "role": "Student", "text": "Režim za biblioteku je bukvalan. Za lime par dobijam komplimente svaki dan." }
+      ]
+    },
+    "cta": {
+      "title": "Ne čuj ništa. Oseti sve.",
+      "body": "AURA One. Četiri boje. Jedna tišina.",
+      "button": "Poruči",
+      "note": "{{price}} · Isporuka od proleća 2027. · Besplatan povraćaj 30 dana"
+    }
+  },
+  "product": {
+    "hero": {
+      "eyebrow": "Tehnologija i specifikacije",
+      "title": "Napravljene kao instrument.",
+      "body": "AURA One čini dvanaest komponenti, osam mikrofona i jedan čip, usklađivani tri godine. Evo šta je unutra.",
+      "alt1": "AURA One slušalice u električno ljubičastoj na studijskoj pozadini",
+      "alt2": "Detalj šarke aluminijumskog obruča"
+    },
+    "driver": {
+      "eyebrow": "Pulse drajver",
+      "title": "40 milimetara preciznosti.",
+      "body": "Membrana sa titanijumskim premazom, neodimijumski N52 magnet i zvučni kalem od bakrom obloženog aluminijuma. Rezultat: bas koji osećaš i detalji za koje nisi znao da postoje.",
+      "labels": { "diaphragm": "Titanijumska membrana", "coil": "CCAW zvučni kalem", "magnet": "N52 neodimijumski magnet", "chamber": "Štimovana akustička komora", "mesh": "Akustička mrežica" }
+    },
+    "specs": {
+      "eyebrow": "Specifikacije",
+      "title": "Svaki broj, pošten.",
+      "groups": [
+        { "title": "Zvuk", "rows": [["Drajver", "40 mm dinamički, titanijumski premaz"], ["Frekvencijski opseg", "4 Hz – 40 kHz"], ["Prostorni zvuk", "Prati glavu, 360°"], ["Kodeci", "LDAC, aptX Adaptive, AAC, SBC"]] },
+        { "title": "Poništavanje buke", "rows": [["Sistem", "Adaptivni hibridni ANC"], ["Mikrofoni", "8 (4 spoljna, 2 unutrašnja, 2 za glas)"], ["Prigušenje", "Do 45 dB"], ["Transparentnost", "Prirodni režim + fokus na glas"]] },
+        { "title": "Baterija", "rows": [["Reprodukcija (ANC uključen)", "40 sati"], ["Reprodukcija (ANC isključen)", "60 sati"], ["Brzo punjenje", "10 min = 5 h"], ["Puno punjenje", "1,5 h preko USB-C"]] },
+        { "title": "Izrada", "rows": [["Težina", "248 g"], ["Materijali", "Reciklirani aluminijum, veganska koža"], ["Povezivanje", "Bluetooth 5.4, multipoint, USB-C audio"], ["Otpornost na vodu", "IPX4"]] }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Boje",
+      "title": "Ista tišina, četiri karaktera.",
+      "rows": { "finish": "Završna obrada", "cushion": "Jastučići", "accent": "Akcenat", "edition": "Edicija", "availability": "Dostupnost" },
+      "values": {
+        "violet": { "finish": "Anodizirana ljubičasta", "cushion": "Ponoćna veganska koža", "accent": "Lime šavovi", "edition": "Osnovna", "availability": "Proleće 2027." },
+        "coral": { "finish": "Mat koralna", "cushion": "Peščana veganska koža", "accent": "Žuti šavovi", "edition": "Osnovna", "availability": "Proleće 2027." },
+        "lime": { "finish": "Satenska lime", "cushion": "Grafitna veganska koža", "accent": "Ljubičasti šavovi", "edition": "Limitirana", "availability": "Leto 2027." },
+        "ocean": { "finish": "Anodizirana okeanska", "cushion": "Maglovita veganska koža", "accent": "Koralni šavovi", "edition": "Osnovna", "availability": "Proleće 2027." }
+      }
+    },
+    "faq": {
+      "eyebrow": "Česta pitanja",
+      "title": "Dobra pitanja.",
+      "items": [
+        { "q": "Da li ANC radi tokom poziva?", "a": "Da. Dva mikrofona namenjena glasu izdvajaju tvoj glas dok preostalih šest drže buku napolju, pa i ti i sagovornik čujete manje sveta." },
+        { "q": "Mogu li da ih koristim žično?", "a": "Da. AURA One podržava lossless audio preko USB-C i dolazi sa 3,5 mm kablom. ANC radi i u žičnom režimu." },
+        { "q": "Da li se jastučići menjaju?", "a": "Skidaju se okretom za dve sekunde. Rezervni jastučići u svim bojama dostupni su od lansiranja." },
+        { "q": "Šta je u kutiji?", "a": "AURA One, tvrda putna futrola, USB-C na USB-C kabl, 3,5 mm kabl, avionski adapter i tabak nalepnica, čisto zato što možemo." },
+        { "q": "Postoji li garancija?", "a": "Dve godine širom sveta, plus program popravke za sve što se pokvari posle toga." }
+      ]
+    }
+  },
+  "about": {
+    "hero": { "eyebrow": "O nama", "title": "Pravimo tišinu, naglas.", "body": "AURA Audio je nastao u beogradskom podrumu uz jedno pitanje: zašto najbolje slušalice sve izgledaju isto?" },
+    "timeline": {
+      "eyebrow": "Priča do sada",
+      "title": "Iz podruma do tvojih ušiju.",
+      "items": [
+        { "year": 2019, "title": "Pitanje", "text": "Dvoje inženjera akustike i dizajnerka opsednuta bojama upoznaju se na koncertu. Ne čuju se, pa pričaju baš o tome.", "alt": "Skice i prototipovi na radioničkom stolu" },
+        { "year": 2021, "title": "Prototip 01", "text": "Posle četrdeset dve 3D štampane školjke, prva AURA pušta muziku. Teška je 410 grama, a ANC zuji. Nastavljamo." , "alt": "Inženjer lemi prototip slušalica" },
+        { "year": 2023, "title": "Pulse A1 čip", "text": "Prestajemo da kupujemo čipove i pravimo sopstveni. Osam mikrofona, 48.000 merenja u sekundi i, konačno, prava tišina.", "alt": "Krupni plan štampane ploče" },
+        { "year": 2025, "title": "Boja postaje ozbiljna", "text": "Farbamo 120 završnih obrada, pokazujemo ih za 2.000 ljudi i zadržavamo četiri. Električna ljubičasta pobeđuje ubedljivo.", "alt": "Uzorci boja raspoređeni na stolu" },
+        { "year": 2026, "title": "AURA One", "text": "Lansiranje. Četiri boje, četrdeset sati, jedno obećanje: svet, utišan.", "alt": "AURA One slušalice na postolju pod scenskim svetlom" }
+      ]
+    },
+    "team": {
+      "eyebrow": "Ljudi",
+      "title": "Mali tim. Velike uši.",
+      "members": [
+        { "name": "Jelena Marković", "role": "Suosnivačica i šefica akustike", "fact": "Jednim pljeskom proceni vreme odjeka prostorije.", "alt": "Portret Jelene Marković" },
+        { "name": "Dávid Horváth", "role": "Suosnivač i hardver", "fact": "Ima 73 para pokvarenih slušalica. Radi istraživanja.", "alt": "Portret Dávida Horvátha" },
+        { "name": "Amara Osei", "role": "Direktorka dizajna", "fact": "Koralni zalazak je nazvala po jednoj konkretnoj večeri u Lisabonu.", "alt": "Portret Amare Osei" },
+        { "name": "Nikola Petrović", "role": "Firmver i DSP", "fact": "Prvi ANC algoritam napisao je u noćnom vozu za Beč.", "alt": "Portret Nikole Petrovića" },
+        { "name": "Sofia Lindqvist", "role": "Šefica zajednice", "fact": "Lično je odgovorila na svaki mejl podrške. Za sada.", "alt": "Portret Sofije Lindqvist" },
+        { "name": "Marko Ilić", "role": "Industrijski dizajn", "fact": "Prototipove obruča prvo rezbari u drvetu, pa tek onda otvara CAD.", "alt": "Portret Marka Ilića" }
+      ],
+      "hover": "Zanimljivost"
+    },
+    "values": {
+      "eyebrow": "U šta verujemo",
+      "title": "Četiri stvari na koje ne pristajemo.",
+      "items": [
+        { "title": "Tišina je funkcija", "text": "Poništavanje buke merimo na pravim ulicama, ne u gluvim sobama. Ako ne radi u tramvaju u 6 ujutru, ne ide u prodaju." },
+        { "title": "Boja nije paket opreme", "text": "Svaka boja se dizajnira od nule, do poslednjeg šava. Nema „dostupno i u” naknadnih rešenja." },
+        { "title": "Popravi, ne baci", "text": "Jastučići, baterije i obruči se menjaju kod kuće. Objavljujemo uputstva. Prodajemo delove." },
+        { "title": "Pošteni brojevi", "text": "Četrdeset sati znači četrdeset sati uz uključen ANC, na 50% jačine, izmereno od strane nekog ko nismo mi." }
+      ]
+    },
+    "studio": {
+      "eyebrow": "Radionica",
+      "title": "Gde nastaje buka.",
+      "hint": "Prevuci i istraži",
+      "alts": ["Radionički sto sa alatom i prototipovima", "Soba za akustička merenja sa penastim panelima", "Dizajnerka pregleda uzorke boja", "Sastanak tima oko drvenog stola", "Delovi slušalica raspoređeni na radnom stolu", "Prozor studija sa pogledom na grad"]
+    },
+    "stats": {
+      "eyebrow": "U brojkama",
+      "items": [
+        { "value": 38, "suffix": "", "label": "zemalja sa isporukom" },
+        { "value": 120, "suffix": "k", "label": "prednarudžbina i raste" },
+        { "value": 14, "suffix": "", "label": "nagrada za dizajn" },
+        { "value": 4.9, "suffix": "/5", "label": "prosečna ocena", "decimals": 1 }
+      ]
+    },
+    "cta": { "title": "Dođi i čuj sam.", "button": "Javi nam se" }
+  },
+  "contact": {
+    "hero": { "eyebrow": "Kontakt", "title": "Hajde da pričamo.", "body": "Podrška, partnerstva, mediji ili samo pitanje o boji. Odgovaramo u roku od jednog radnog dana." },
+    "info": {
+      "emailLabel": "Imejl",
+      "email": "hello@aura-audio.com",
+      "phoneLabel": "Telefon",
+      "phone": "+381 11 400 20 20",
+      "addressLabel": "Studio",
+      "address": "Cetinjska 15, 11000 Beograd, Srbija",
+      "hoursLabel": "Radno vreme",
+      "hours": "Pon – pet, 9:00 – 18:00 CET",
+      "social": "Zaprati nas"
+    },
+    "form": {
+      "title": "Pošalji nam poruku",
+      "name": "Ime i prezime",
+      "email": "Imejl adresa",
+      "phone": "Telefon (nije obavezno)",
+      "subject": "Tema",
+      "message": "Poruka",
+      "subjects": { "placeholder": "Izaberi temu", "general": "Opšte", "support": "Podrška", "partnership": "Partnerstvo", "press": "Mediji" },
+      "submit": "Pošalji poruku",
+      "sending": "Šaljemo",
+      "sent": "Poslato",
+      "successTitle": "Poruka je stigla.",
+      "successBody": "Hvala, {{name}}. Javljamo se u roku od jednog radnog dana.",
+      "another": "Pošalji još jednu",
+      "errorTitle": "Nešto nije u redu.",
+      "errorBody": "Pokušaj ponovo ili nam piši direktno na {{email}}.",
+      "consent": "Slanjem poruke prihvataš našu politiku privatnosti.",
+      "errors": {
+        "nameRequired": "Reci nam kako se zoveš.",
+        "nameMin": "Ime treba da ima bar 2 znaka.",
+        "emailRequired": "Treba nam imejl da bismo odgovorili.",
+        "emailInvalid": "Ovaj imejl ne izgleda ispravno.",
+        "phoneInvalid": "Unesi ispravan broj telefona.",
+        "subjectRequired": "Izaberi temu.",
+        "messageRequired": "Napiši poruku.",
+        "messageMin": "Još koja reč, molimo (najmanje 10 znakova)."
+      }
+    },
+    "map": { "title": "Pronađi studio", "pin": "AURA Studio, Beograd" },
+    "faq": {
+      "title": "Brzi odgovori",
+      "items": [
+        { "q": "Kada stiže moja prednarudžbina?", "a": "Osnovne boje šaljemo od proleća 2027, Lime puls od leta 2027. Mejl sa brojem za praćenje stiže čim paket krene." },
+        { "q": "Mogu li da posetim studio?", "a": "Možeš, uz najavu. Izaberi „Opšte” u formi i napiši kad si u blizini." },
+        { "q": "Sarađujete li sa kreatorima?", "a": "Da. Izaberi „Partnerstvo” i pošalji nam link ka svom radu." }
+      ]
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Izgubljeni u tišini.",
+    "body": "Ova stranica ne postoji ili se preselila negde gde je tiše.",
+    "button": "Nazad na početnu"
+  },
+  "footer": {
+    "tagline": "Tišina, iznova osmišljena.",
+    "newsletter": { "title": "Čuj prvi.", "body": "Vesti o lansiranju, nove boje, bez spama.", "placeholder": "Tvoj imejl", "button": "Prijavi se", "success": "Na listi si.", "errorInvalid": "Unesi ispravan imejl." },
+    "columns": { "explore": "Istraži", "company": "Kompanija", "follow": "Zaprati" },
+    "links": { "privacy": "Privatnost", "terms": "Uslovi", "press": "Za medije" },
+    "copyright": "© {{year}} AURA Audio. Sva prava zadržana.",
+    "madeIn": "Dizajnirano u Beogradu."
+  },
+  "a11y": {
+    "scene3d": "Interaktivni 3D model AURA One slušalica",
+    "videoCity": "Snimak gradskog saobraćaja iz vazduha",
+    "videoFilm": "AURA One promotivni film",
+    "colorwayButton": "Izaberi boju {{name}}",
+    "prev": "Prethodna",
+    "next": "Sledeća",
+    "closeLightbox": "Zatvori sliku"
+  }
+}

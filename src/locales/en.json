@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "siteName": "AURA Audio",
+    "home": { "title": "AURA One — Silence, redesigned.", "description": "AURA One premium wireless headphones: adaptive noise cancellation, 40-hour battery, spatial audio, aluminium and vegan leather. Four bold colorways." },
+    "product": { "title": "AURA One — Tech & Specs", "description": "Inside AURA One: 40 mm titanium-coated drivers, the Pulse A1 chip, 40 hours of battery and full specifications." },
+    "about": { "title": "About AURA Audio", "description": "The story of AURA Audio: a studio obsessed with silence, colour and sound. Meet the team and the values behind AURA One." },
+    "contact": { "title": "Contact AURA Audio", "description": "Talk to the AURA team: support, partnerships, press. We reply within one working day." },
+    "notFound": { "title": "404 — Lost in the silence", "description": "This page does not exist." }
+  },
+  "nav": {
+    "home": "Home",
+    "product": "Product",
+    "about": "About",
+    "contact": "Contact",
+    "preorder": "Pre-order",
+    "menu": "Menu",
+    "close": "Close",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skip": "Skip to content",
+    "language": "Language"
+  },
+  "common": {
+    "brand": "AURA",
+    "product": "AURA One",
+    "tagline": "Silence, redesigned.",
+    "price": "€349",
+    "scroll": "Scroll",
+    "new": "New",
+    "learnMore": "Learn more",
+    "readMore": "Read more",
+    "loading": "Loading",
+    "shipsIn": "Ships spring 2027",
+    "freeReturns": "30-day free returns"
+  },
+  "cursor": {
+    "view": "View",
+    "drag": "Drag",
+    "play": "Play",
+    "pause": "Pause",
+    "send": "Send",
+    "open": "Open",
+    "close": "Close",
+    "go": "Go"
+  },
+  "preloader": { "label": "Loading the silence" },
+  "colorways": {
+    "violet": { "name": "Electric Violet", "short": "Violet", "mood": "Loud on the outside. Silent inside." },
+    "coral": { "name": "Coral Sunset", "short": "Coral", "mood": "Golden hour, all day." },
+    "lime": { "name": "Lime Pulse", "short": "Lime", "mood": "Turn the volume of your look up." },
+    "ocean": { "name": "Ocean Blue", "short": "Ocean", "mood": "Deep, calm, endless." }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Introducing AURA One",
+      "title": "Silence, redesigned.",
+      "subtitle": "Adaptive noise cancellation, 40 hours of battery and spatial audio, wrapped in aluminium and vegan leather. Four colours that refuse to whisper.",
+      "cta": "Pre-order now",
+      "ctaSecondary": "Watch the film",
+      "scroll": "Scroll to explore",
+      "badge1": "40 h battery",
+      "badge2": "Adaptive ANC",
+      "badge3": "Spatial audio"
+    },
+    "exploded": {
+      "eyebrow": "Engineered inside out",
+      "title": "Every layer, obsessed over.",
+      "body": "Scroll to take AURA One apart. Twelve components, zero compromises.",
+      "parts": {
+        "headband": { "title": "Aluminium headband", "desc": "Single-piece anodised aluminium. Bends 10,000 times without a crease." },
+        "cushion": { "title": "Memory-foam cushions", "desc": "Vegan leather over slow-rebound foam. Seals sound in, lets heat out." },
+        "driver": { "title": "40 mm Pulse driver", "desc": "Titanium-coated diaphragm. 4 Hz to 40 kHz with 0.03% distortion." },
+        "chip": { "title": "Pulse A1 chip", "desc": "Eight microphones, 48,000 measurements a second. Noise cancelled before you hear it." },
+        "cup": { "title": "Sculpted ear cups", "desc": "CNC-milled, recoloured by you. Touch controls hidden in plain sight." }
+      }
+    },
+    "noise": {
+      "eyebrow": "Adaptive noise cancellation",
+      "title": "The world, muted.",
+      "body": "Eight microphones map the chaos around you and cancel it 48,000 times a second. Traffic, trains, open offices. Gone.",
+      "stat": "45",
+      "statUnit": "dB",
+      "statLabel": "of noise removed, adaptively",
+      "before": "Outside",
+      "after": "Inside"
+    },
+    "features": {
+      "eyebrow": "Built for all day",
+      "title": "And all night.",
+      "swipeHint": "Swipe",
+      "items": {
+        "battery": { "title": "40-hour battery", "desc": "A full work week on a single charge. Ten minutes plugged in buys you five more hours.", "value": 40, "unit": "h", "label": "playback with ANC on" },
+        "spatial": { "title": "Spatial audio", "desc": "Head-tracked, 360° sound that stays anchored to the screen as you move.", "value": 360, "unit": "°", "label": "of head-tracked sound" },
+        "comfort": { "title": "Feather comfort", "desc": "Just 248 grams, with pressure spread evenly across the headband. Forget you're wearing them.", "value": 248, "unit": "g", "label": "total weight" },
+        "materials": { "title": "Honest materials", "desc": "Recycled aluminium, vegan leather, zero plastic packaging. Built to be repaired, not replaced.", "value": 92, "unit": "%", "label": "recycled aluminium" }
+      }
+    },
+    "configurator": {
+      "eyebrow": "Your colour. Your sound.",
+      "title": "Pick your pulse.",
+      "hint": "Drag to rotate",
+      "cta": "Pre-order in {{color}}",
+      "selected": "Selected colorway"
+    },
+    "gallery": {
+      "eyebrow": "Worn everywhere",
+      "title": "From the studio to the 6 a.m. train.",
+      "alts": [
+        "Woman wearing AURA One headphones in a neon-lit city street",
+        "DJ wearing headphones in a club booth",
+        "Runner with headphones stretching in a gym",
+        "Traveller looking out of an airplane window with headphones",
+        "Producer wearing headphones in a recording studio",
+        "Person listening to music on a rooftop at golden hour",
+        "Close-up of headphones on a yellow background",
+        "Headphones resting on a wooden desk"
+      ]
+    },
+    "video": {
+      "eyebrow": "The film",
+      "title": "Two minutes of nothing.",
+      "body": "We took AURA One to the loudest places we could find, and recorded what you hear instead.",
+      "play": "Play film",
+      "pause": "Pause film"
+    },
+    "testimonials": {
+      "eyebrow": "What people hear",
+      "title": "Loud opinions about silence.",
+      "items": [
+        { "name": "Mila K.", "role": "Music producer", "text": "The first ANC that doesn't feel like pressure in my skull. I mix in them. That says everything." },
+        { "name": "Jonas R.", "role": "Daily commuter", "text": "Forty hours is real. I charged them once in two weeks and I ride the train every single day." },
+        { "name": "Aisha B.", "role": "Designer", "text": "I bought the coral ones for the colour and stayed for the sound. Spatial audio on films is unreal." },
+        { "name": "Tom H.", "role": "Podcaster", "text": "Call quality is the best I've used. People stopped asking me to repeat myself." },
+        { "name": "Nina P.", "role": "Marathon runner", "text": "They stay on. 30 km, zero adjustments. And they wipe clean after." },
+        { "name": "Leo M.", "role": "Student", "text": "Library mode is literal. The lime pair gets me compliments every single day." }
+      ]
+    },
+    "cta": {
+      "title": "Hear nothing. Feel everything.",
+      "body": "AURA One. Four colours. One silence.",
+      "button": "Pre-order",
+      "note": "{{price}} · Ships spring 2027 · 30-day free returns"
+    }
+  },
+  "product": {
+    "hero": {
+      "eyebrow": "Tech & specs",
+      "title": "Built like an instrument.",
+      "body": "AURA One is twelve components, eight microphones and one chip, tuned together for three years. Here is what's inside.",
+      "alt1": "AURA One headphones in Electric Violet on a studio background",
+      "alt2": "Detail of the aluminium headband hinge"
+    },
+    "driver": {
+      "eyebrow": "The Pulse driver",
+      "title": "40 millimetres of precision.",
+      "body": "A titanium-coated diaphragm, a neodymium N52 magnet and a copper-clad aluminium voice coil. The result: bass you feel and detail you didn't know existed.",
+      "labels": { "diaphragm": "Titanium diaphragm", "coil": "CCAW voice coil", "magnet": "N52 neodymium magnet", "chamber": "Tuned acoustic chamber", "mesh": "Acoustic mesh" }
+    },
+    "specs": {
+      "eyebrow": "Specifications",
+      "title": "Every number, honest.",
+      "groups": [
+        { "title": "Sound", "rows": [["Driver", "40 mm titanium-coated dynamic"], ["Frequency response", "4 Hz – 40 kHz"], ["Spatial audio", "Head-tracked, 360°"], ["Codecs", "LDAC, aptX Adaptive, AAC, SBC"]] },
+        { "title": "Noise cancellation", "rows": [["System", "Adaptive hybrid ANC"], ["Microphones", "8 (4 feed-forward, 2 feedback, 2 voice)"], ["Attenuation", "Up to 45 dB"], ["Transparency", "Natural mode + voice focus"]] },
+        { "title": "Battery", "rows": [["Playback (ANC on)", "40 hours"], ["Playback (ANC off)", "60 hours"], ["Fast charge", "10 min = 5 h"], ["Full charge", "1.5 h via USB-C"]] },
+        { "title": "Build", "rows": [["Weight", "248 g"], ["Materials", "Recycled aluminium, vegan leather"], ["Connectivity", "Bluetooth 5.4, multipoint, USB-C audio"], ["Water resistance", "IPX4"]] }
+      ]
+    },
+    "comparison": {
+      "eyebrow": "Colorways",
+      "title": "Same silence, four personalities.",
+      "rows": { "finish": "Finish", "cushion": "Cushion", "accent": "Accent detail", "edition": "Edition", "availability": "Availability" },
+      "values": {
+        "violet": { "finish": "Anodised violet", "cushion": "Midnight vegan leather", "accent": "Lime stitching", "edition": "Core", "availability": "Spring 2027" },
+        "coral": { "finish": "Matte coral", "cushion": "Sand vegan leather", "accent": "Yellow stitching", "edition": "Core", "availability": "Spring 2027" },
+        "lime": { "finish": "Satin lime", "cushion": "Charcoal vegan leather", "accent": "Violet stitching", "edition": "Limited", "availability": "Summer 2027" },
+        "ocean": { "finish": "Anodised ocean", "cushion": "Fog vegan leather", "accent": "Coral stitching", "edition": "Core", "availability": "Spring 2027" }
+      }
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Good questions.",
+      "items": [
+        { "q": "Does ANC work on calls?", "a": "Yes. Two dedicated voice microphones isolate your voice while the other six keep the noise out, so both you and the other side hear less of the world." },
+        { "q": "Can I use them wired?", "a": "Yes. AURA One supports USB-C lossless audio and ships with a 3.5 mm cable. ANC keeps working in wired mode." },
+        { "q": "Are the cushions replaceable?", "a": "They twist off in two seconds. Replacement cushions in every colorway are available from launch." },
+        { "q": "What's in the box?", "a": "AURA One, a hard travel case, USB-C to USB-C cable, 3.5 mm cable, a flight adapter and a sticker sheet, because why not." },
+        { "q": "Is there a warranty?", "a": "Two years worldwide, plus a repair programme for anything that breaks after that." }
+      ]
+    }
+  },
+  "about": {
+    "hero": { "eyebrow": "About AURA", "title": "We make quiet, loudly.", "body": "AURA Audio started in a Belgrade basement with one question: why do the best headphones all look the same?" },
+    "timeline": {
+      "eyebrow": "The story so far",
+      "title": "From a basement to your ears.",
+      "items": [
+        { "year": 2019, "title": "The question", "text": "Two acoustic engineers and a colour-obsessed designer meet at a concert. They can't hear each other, so they talk about that instead.", "alt": "Sketches and prototypes on a workshop table" },
+        { "year": 2021, "title": "Prototype 01", "text": "Forty-two 3D-printed shells later, the first AURA plays music. It weighs 410 grams and the ANC hums. We keep going.", "alt": "Engineer soldering a headphone prototype" },
+        { "year": 2023, "title": "The Pulse A1 chip", "text": "We stop buying chips and design our own. Eight microphones, 48,000 measurements a second, and finally, real silence.", "alt": "Close-up of a circuit board" },
+        { "year": 2025, "title": "Colour gets serious", "text": "We paint 120 finishes, show them to 2,000 people and keep four. Electric Violet wins by a landslide.", "alt": "Colour swatches arranged on a table" },
+        { "year": 2026, "title": "AURA One", "text": "Launch. Four colours, forty hours, one promise: the world, muted.", "alt": "AURA One headphones on a pedestal under stage light" }
+      ]
+    },
+    "team": {
+      "eyebrow": "The people",
+      "title": "Small team. Big ears.",
+      "members": [
+        { "name": "Jelena Marković", "role": "Co-founder & Acoustic lead", "fact": "Can identify a room's reverb time by clapping once.", "alt": "Portrait of Jelena Marković" },
+        { "name": "Dávid Horváth", "role": "Co-founder & Hardware", "fact": "Owns 73 pairs of broken headphones. For research.", "alt": "Portrait of Dávid Horváth" },
+        { "name": "Amara Osei", "role": "Design director", "fact": "Named Coral Sunset after a specific evening in Lisbon.", "alt": "Portrait of Amara Osei" },
+        { "name": "Nikola Petrović", "role": "Firmware & DSP", "fact": "Wrote the first ANC algorithm on a night train to Vienna.", "alt": "Portrait of Nikola Petrović" },
+        { "name": "Sofia Lindqvist", "role": "Head of Community", "fact": "Has replied to every single support email personally. So far.", "alt": "Portrait of Sofia Lindqvist" },
+        { "name": "Marko Ilić", "role": "Industrial design", "fact": "Carves headband prototypes out of wood before anything touches a CAD file.", "alt": "Portrait of Marko Ilić" }
+      ],
+      "hover": "Fun fact"
+    },
+    "values": {
+      "eyebrow": "What we believe",
+      "title": "Four things we won't compromise.",
+      "items": [
+        { "title": "Silence is a feature", "text": "We measure noise cancellation in real streets, not anechoic chambers. If it doesn't work on the 6 a.m. tram, it doesn't ship." },
+        { "title": "Colour is not a trim level", "text": "Every colorway is designed from scratch, down to the stitching. No 'also available in' afterthoughts." },
+        { "title": "Repair over replace", "text": "Cushions, batteries and headbands are user-replaceable. We publish the guides. We sell the parts." },
+        { "title": "Honest numbers", "text": "Forty hours means forty hours with ANC on, at 50% volume, measured by someone who isn't us." }
+      ]
+    },
+    "studio": {
+      "eyebrow": "The workshop",
+      "title": "Where the noise gets made.",
+      "hint": "Drag to explore",
+      "alts": ["Workshop desk with tools and prototypes", "Acoustic testing room with foam panels", "Designer reviewing colour swatches", "Team meeting around a wooden table", "Headphone parts laid out on a workbench", "Studio window with city view"]
+    },
+    "stats": {
+      "eyebrow": "By the numbers",
+      "items": [
+        { "value": 38, "suffix": "", "label": "countries shipping" },
+        { "value": 120, "suffix": "k", "label": "pre-orders and counting" },
+        { "value": 14, "suffix": "", "label": "design awards" },
+        { "value": 4.9, "suffix": "/5", "label": "average rating", "decimals": 1 }
+      ]
+    },
+    "cta": { "title": "Come hear it for yourself.", "button": "Get in touch" }
+  },
+  "contact": {
+    "hero": { "eyebrow": "Contact", "title": "Let's talk.", "body": "Support, partnerships, press or just a question about colour. We answer within one working day." },
+    "info": {
+      "emailLabel": "Email",
+      "email": "hello@aura-audio.com",
+      "phoneLabel": "Phone",
+      "phone": "+381 11 400 20 20",
+      "addressLabel": "Studio",
+      "address": "Cetinjska 15, 11000 Belgrade, Serbia",
+      "hoursLabel": "Hours",
+      "hours": "Mon – Fri, 9:00 – 18:00 CET",
+      "social": "Follow"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone (optional)",
+      "subject": "Subject",
+      "message": "Message",
+      "subjects": { "placeholder": "Choose a topic", "general": "General", "support": "Support", "partnership": "Partnership", "press": "Press" },
+      "submit": "Send message",
+      "sending": "Sending",
+      "sent": "Sent",
+      "successTitle": "Message received.",
+      "successBody": "Thanks, {{name}}. We'll be in touch within one working day.",
+      "another": "Send another",
+      "errorTitle": "Something went wrong.",
+      "errorBody": "Please try again or email us directly at {{email}}.",
+      "consent": "By sending you agree to our privacy policy.",
+      "errors": {
+        "nameRequired": "Please tell us your name.",
+        "nameMin": "Name should be at least 2 characters.",
+        "emailRequired": "We need an email to reply to.",
+        "emailInvalid": "That email doesn't look right.",
+        "phoneInvalid": "Please enter a valid phone number.",
+        "subjectRequired": "Please choose a topic.",
+        "messageRequired": "Please write a message.",
+        "messageMin": "A few more words, please (min. 10 characters)."
+      }
+    },
+    "map": { "title": "Find the studio", "pin": "AURA Studio, Belgrade" },
+    "faq": {
+      "title": "Quick answers",
+      "items": [
+        { "q": "When will my pre-order ship?", "a": "Core colorways ship from spring 2027, Lime Pulse from summer 2027. You'll get a tracking email the moment it leaves us." },
+        { "q": "Can I visit the studio?", "a": "Yes, by appointment. Pick 'General' in the form and tell us when you're around." },
+        { "q": "Do you work with creators?", "a": "We do. Choose 'Partnership' and link us to your work." }
+      ]
+    }
+  },
+  "notFound": {
+    "eyebrow": "404",
+    "title": "Lost in the silence.",
+    "body": "This page doesn't exist, or it moved somewhere quieter.",
+    "button": "Back home"
+  },
+  "footer": {
+    "tagline": "Silence, redesigned.",
+    "newsletter": { "title": "Hear it first.", "body": "Launch news, colour drops, no spam.", "placeholder": "Your email", "button": "Subscribe", "success": "You're on the list.", "errorInvalid": "Please enter a valid email." },
+    "columns": { "explore": "Explore", "company": "Company", "follow": "Follow" },
+    "links": { "privacy": "Privacy", "terms": "Terms", "press": "Press kit" },
+    "copyright": "© {{year}} AURA Audio. All rights reserved.",
+    "madeIn": "Designed in Belgrade."
+  },
+  "a11y": {
+    "scene3d": "Interactive 3D model of AURA One headphones",
+    "videoCity": "Aerial city traffic video",
+    "videoFilm": "AURA One product film",
+    "colorwayButton": "Choose {{name}} colorway",
+    "prev": "Previous",
+    "next": "Next",
+    "closeLightbox": "Close image"
+  }
+}
