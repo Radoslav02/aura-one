@@ -12,7 +12,8 @@ const ROW_KEYS = ['finish', 'cushion', 'accent', 'edition', 'availability']
 
 /**
  * COLORWAY TABLE — compares the 4 colorways; clicking a column picks that
- * colorway site-wide (ThemeContext) and highlights the column.
+ * colorway site-wide (ThemeContext), highlights the column and recolours the
+ * section background.
  */
 export default function ColorwayTable() {
   const { t } = useTranslation()
@@ -20,7 +21,7 @@ export default function ColorwayTable() {
   const root = useRef(null)
   const rows = t('product.comparison.rows', { returnObjects: true })
   const values = t('product.comparison.values', { returnObjects: true })
-  useSectionColor(root, SECTION.coral)
+  useSectionColor(root, SECTION[colorway])
 
   useGSAP(
     () => {
